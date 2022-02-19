@@ -9,6 +9,8 @@ Achei sensacional o formulário, e até então eu não havia feito um dessa form
 
 Em relação a parte responsiva, ficou o desafio para nós fazermos, e caso precisarmos acessariamos o vídeo sobre responsividade, no caso eu já fiz essas alterações e acho que esteja bom, mas ainda sim vou ver o segundo vídeo 
 
+ps: aparentemente o problema dos arquivos .svg foi resolvido, bastava fechar a tag <img />
+
 ## Readme in english.
 
 A little form made following the steps from another youtube video, by Giovanna Moeller from Girl Coding.
